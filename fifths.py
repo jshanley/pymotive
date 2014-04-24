@@ -1,5 +1,3 @@
-import math
-
 steps = ['F','C','G','D','A','E','B']
 
 symbols = { 'b': -7, '#': 7, 'x': 14 }
